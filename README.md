@@ -59,8 +59,8 @@ npm test
 - API -  HTTP requests are grouped based on the resource you are calling so if there are two resources called if the request changes it requires a single change to propagate through the framework.
 - Payloads - Payloads that are required for requests and responses are stored in this area. The idea is similar to the API area in that one class is responsible for one payload that may be called multiple times. Again, this means if the payload changes it requires a single change to propagate through the framework.
 
+
 ````
-/Users/trishachetani/RESTFULAPITEST
 ├── README.md
 ├── api
 ├── node_modules
@@ -71,5 +71,5 @@ directory: 3 file: 2
 
 `````
 
-###Bug 
-* Bugs ErrorHandling: When method is not supported it should return 405 [https://httpstatuses.com/405]
+### Bug 
+- ErrorHandling: When method is not supported it should return 405 [https://httpstatuses.com/405]
