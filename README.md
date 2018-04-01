@@ -71,10 +71,6 @@ directory: 3 file: 2
 
 `````
 
-<<<<<<< HEAD
+
 ### Bug 
 - ErrorHandling: When method is not supported it should return 405 [https://httpstatuses.com/405]
-=======
-###Bug 
-* Bugs ErrorHandling: When method is not supported it should return 405 [https://httpstatuses.com/405]
->>>>>>> 1cc422f633870004edd0e5976fa4365c96a22f63
