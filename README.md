@@ -23,6 +23,8 @@ API test : bestBuy API (https://httpbin.org)
 - supertest-as-promised(https://www.npmjs.com/package/supertest-as-promised)
 
 ## Setup
+
+https://github.com/ASH-khan/notebook/wiki/JavaScript-Testing-Basics-with-Mocha-and-Chai
 ### Dev Setup nodejs and yarn
 * install node
 * Best Buy Dev Set up(https://github.com/bestbuy/api-playground/#getting-started)
